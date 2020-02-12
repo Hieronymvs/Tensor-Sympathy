@@ -1,7 +1,7 @@
 # Tensor-Sympathy
-Written by Jeroen Verschuren in Processing.
+Written by Jeroen Verschuren in Processing using the 'Minim' Audio Library for Processing (http://code.compartmental.net/tools/minim/)
 
-Working prototype that allows to communicate via the Tensor Tympani (a muscle in the human inner ear) and a vibration sensor connected to a pc.
+Tensor Sympathy is a working prototype that allows to communicate via the Tensor Tympani (a muscle in the human inner ear) and a vibration sensor connected to a pc.
 
 The installation questions the role we attach to our senses taken for granted. We use our eyes for seeing, our ears for hearing, our skin to feel. But, is it possible that some of our senses can change or even reverse roles?
 
