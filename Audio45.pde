@@ -1,30 +1,7 @@
 
     /**
     
-     There are five versions of <code>getLineIn</code>:
-     * <pre>
-     * getLineIn()
-     * getLineIn(int type) 
-     * getLineIn(int type, int bufferSize) 
-     * getLineIn(int type, int bufferSize, float sampleRate) 
-     * getLineIn(int type, int bufferSize, float sampleRate, int bitDepth)  
-     * </pre>
-     * The value you can use for <code>type</code> is either <code>Minim.MONO</code> 
-     * or <code>Minim.STEREO</code>. <code>bufferSize</code> specifies how large 
-     * you want the sample buffer to be, <code>sampleRate</code> specifies the 
-     * sample rate you want to monitor at, and <code>bitDepth</code> specifies what 
-     * bit depth you want to monitor at. <code>type</code> defaults to <code>Minim.STEREO</code>,
-     * <code>bufferSize</code> defaults to 1024, <code>sampleRate</code> defaults to 
-     * 44100, and <code>bitDepth</code> defaults to 16. If an <code>AudioInput</code> 
-     * cannot be created with the properties you request, <code>Minim</code> will report 
-     * an error and return <code>null</code>.
-     * 
-     * When you run your sketch as an applet you will need to sign it in order to get an input. 
-     * 
-     * Before you exit your sketch make sure you call the <code>close</code> method 
-     * of any <code>AudioInput</code>'s you have received from <code>getLineIn</code>.
-     */
-     // default values: 
+      // default values: 
      // type       : Minim.STEREO   (can be changed to Minim.MONO)
      // bufferSize : 1024  (size off sample buffer)
      // sampleRate :44100
