@@ -16,3 +16,5 @@ Screenshots of the prototype, most recent image on top.
 The first image visualizes certain variables like audio sampling, timing and average line input. The Spirograph like shape in the last two images (made during prototyping) is formed by visualizing line input as squares in a circular motion and exists for only a fraction of a second (1/43 to be exact) during the lifetime of a single audio sample. The possibilities for rendering interesting shapes and motion are endless and a lot of fun to play with but for the sake of clarity kept to a minimum in the final design.
 
 Of course, the name of the project ‘Tensor Sympathy’ is a play on the words ‘Tensor Tympani’ with hints of a possible less functional hearing while exercising our basic human need, communication.
+
+Contact me if you need help with implementation or if you would like to know more about this project.
