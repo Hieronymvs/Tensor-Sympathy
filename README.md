@@ -18,3 +18,8 @@ The first image visualizes certain variables like audio sampling, timing and ave
 Of course, the name of the project ‘Tensor Sympathy’ is a play on the words ‘Tensor Tympani’ with hints of a possible less functional hearing while exercising our basic human need, communication.
 
 Contact me if you need help with implementation or if you would like to know more about this project.
+
+
+Original image attribution:
+Henry Vandyke Carter, Public domain, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/2/29/Gray907.png
