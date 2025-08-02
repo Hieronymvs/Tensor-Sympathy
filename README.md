@@ -1,4 +1,7 @@
 # Tensor-Sympathy
+
+More about this project: https://jeroenv.net/tensor-sympathy/
+
 Written by Jeroen Verschuren in Processing using the 'Minim' Audio Library for Processing (http://code.compartmental.net/tools/minim/)
 
 Tensor Sympathy is a working prototype that allows to communicate via the Tensor Tympani (a muscle in the human inner ear) and a vibration sensor connected to a pc.
